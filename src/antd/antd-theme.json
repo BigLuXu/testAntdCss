@@ -1,0 +1,38 @@
+{
+    "@font-family": "'Roboto Regular', Arial, Helvetica, Roboto, sans-serif",
+    "@primary-color": "red",
+    "@success-color": "#52c41b",
+    "@error-color": "#f4222d",
+    "@highlight-color": "#f4222d",
+    "@warning-color": "#faad14",
+    "@normal-color": "#e2e5ed",
+  
+    "@table-padding-vertical": "20px",
+    "@table-padding-horizontal": "12px",
+    "@table-header-bg": "#f7f8fa",
+    "@table-header-color": "rgba(0,0,0,0.45)",
+    "@border-radius-base": "4px",
+    "@height-base": "44px",
+    "@height-lg": "56px",
+    "@height-sm": "36px",
+    "@padding-lg": "28px",
+    "@padding-md": "20px",
+    "@padding-sm": "16px",
+    "@padding-xs": "12px",
+    "@padding-xss": "8px",
+  
+    "@btn-padding-horizontal-base": "20px",
+    "@btn-padding-horizontal-sm": "15px",
+    "@input-icon-color": "rgba(0, 0, 0, 0.25)",
+    "@input-placeholder-color": "rgba(0,0,0,0.25)",
+  
+    "@result-title-font-size": "20px",
+    "@result-icon-font-size": "40px",
+    "@result-extra-margin": "32px 0 0 0",
+  
+    "@pagination-item-size": "36px",
+  
+    "@divider-color": "#eff3f6",
+    "@zindex-dropdown": 1350,
+    "@zindex-message": 1350
+  }

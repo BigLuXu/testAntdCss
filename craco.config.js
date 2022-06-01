@@ -1,5 +1,5 @@
 const CracoLessPlugin = require('craco-less');
-
+const AntDesignTheme = require('./src/antd/antd-theme.json')
 module.exports = {
   plugins: [
     {
@@ -7,7 +7,7 @@ module.exports = {
       options: {
         lessLoaderOptions: {
           lessOptions: {
-            modifyVars: { '@primary-color': '#1DA57A' },
+            modifyVars: AntDesignTheme,
             javascriptEnabled: true,
           },
         },
