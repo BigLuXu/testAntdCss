@@ -9,6 +9,8 @@
     "@testing-library/user-event": "^11.1.0",
     "antd": "^4.13.0",
     "craco-less": "^1.17.0",
+    "firebase": "^9.8.4",
+    "r-track": "^0.3.1",
     "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.4",
